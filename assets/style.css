@@ -1,0 +1,16 @@
+ .jumbotron {
+	background-color: purple;
+		color: white;
+}
+
+ body {
+	background-image: url("images/trainImage.jpg");
+	color: white;
+}
+ #wrap {
+	 background-color: white;
+	 color: black;
+	 padding: 25px;
+ }
+
+
